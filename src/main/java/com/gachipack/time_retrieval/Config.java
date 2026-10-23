@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.gachipack.time_retrieval;
 
 import java.util.List;
 import java.util.Set;
